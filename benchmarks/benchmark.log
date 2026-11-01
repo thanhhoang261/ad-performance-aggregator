@@ -1,0 +1,28 @@
+date: 2026-11-01T08:51:55Z
+input: ad_data.csv (1043304870 bytes)
+host: Darwin arm64
+--- run 1
+Processed 26843544 rows (0 skipped) across 50 campaigns in 3.20s
+        3.62 real         3.08 user         0.11 sys
+             3031040  maximum resident set size
+             2163000  peak memory footprint
+--- run 2
+Processed 26843544 rows (0 skipped) across 50 campaigns in 3.10s
+        3.09 real         3.01 user         0.07 sys
+             3014656  maximum resident set size
+             2146616  peak memory footprint
+--- run 3
+Processed 26843544 rows (0 skipped) across 50 campaigns in 3.15s
+        3.14 real         3.06 user         0.07 sys
+             3031040  maximum resident set size
+             2163000  peak memory footprint
+--- run 4
+Processed 26843544 rows (0 skipped) across 50 campaigns in 3.25s
+        3.25 real         3.15 user         0.09 sys
+             3031040  maximum resident set size
+             2163000  peak memory footprint
+--- run 5
+Processed 26843544 rows (0 skipped) across 50 campaigns in 3.13s
+        3.12 real         3.04 user         0.08 sys
+             3031040  maximum resident set size
+             2163000  peak memory footprint

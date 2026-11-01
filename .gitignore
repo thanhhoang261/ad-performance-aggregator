@@ -1,0 +1,4 @@
+/target
+# The ~1GB dataset exceeds GitHub's file size limit; download it from the challenge repo.
+/ad_data.csv
+/ad_data.csv.zip
